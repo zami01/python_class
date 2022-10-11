@@ -1,3 +1,3 @@
 # python_class
 
-source workspace/bin/activate 
+ source workspace/bin/activate
