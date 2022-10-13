@@ -1,0 +1,17 @@
+{
+    "class": "python",
+    "school": "evolvecyber",
+    "location": 10400,
+    "instructors": [
+
+
+            {
+                "instructor1": {
+                    "name": "islam",
+                    "lastname": "kambarov"
+                }
+            }
+    ]
+}
+
+
